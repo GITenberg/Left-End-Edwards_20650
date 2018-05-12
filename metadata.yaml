@@ -1,0 +1,44 @@
+_repo: Left-End-Edwards_20650
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, C. M. (Charles Mark)
+    - Relyea, Charles M.
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+covers:
+- cover_type: archival
+  image_path: 20650-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: '"I had soon yielded, but Mr. Hall had held out stubbornly until almost
+  the last moment. "I guess," he had said more than once, "you see enough of that
+  Edwards boy without going off to the same boarding school with him! If you want
+  to go to some other school I''ll consider it, Tom, but I''m blessed if I''ll have
+  you tagging after Steve Edwards the way you propose!" But in the end, he too, capitulated."-from
+  back cover.'
+gutenberg_issued: '2007-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Football -- Juvenile fiction'
+title: Left End Edwards
+url: http://www.gutenberg.org/ebooks/20650
